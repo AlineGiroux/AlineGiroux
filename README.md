@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @AlineGiroux
-- 👀 I’m biologist, interested in movement ecology
+Biologist, interested in Movement Ecology
